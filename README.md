@@ -1,3 +1,3 @@
 # matplotlib_challenge
 
-#Code and analysis in ipyb file
+#Code and analysis in ipynb file
